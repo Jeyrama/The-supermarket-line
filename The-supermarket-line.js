@@ -9,3 +9,6 @@ input:
 output:
   The function should return an integer, the total time required.
 */
+
+
+// Solution
