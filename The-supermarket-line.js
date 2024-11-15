@@ -41,3 +41,5 @@ function queueTime(customers, n) {
   }
   return Math.max(...w);
 }
+
+// or
